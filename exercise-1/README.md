@@ -9,4 +9,6 @@ and provide a link to a website that provides additional information
 about the quote. When you push your changes back up to GitHub, you
 will see the rendered markdown file.
 
+> It's not magic. It's talent and sweat. - Gilfoyle (Silicon Valley)
+
 See `complete` branch for an example.
