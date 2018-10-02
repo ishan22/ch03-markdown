@@ -15,4 +15,20 @@ An example of how it can be used (with appropriate code highlighting)
 
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
+# rm
+
+The `rm` command can be used to delete a file or folder. For example:
+
+`rm bad_README.md`
+
+Here is more information about the `rm` command:
+- It can be used recursively to remove directories and their contents with the `-R` option: `rm -R info201`
+	- This behavior can also be called using the `-r` or `--recursive` option
+- You can remove empty directories using `--d` or `--dir` option: `rm -d empty_directory/`
+
+
+
+
+
+
 See `complete` branch for answers.
